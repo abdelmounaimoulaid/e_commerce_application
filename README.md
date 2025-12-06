@@ -43,7 +43,7 @@
 
 1. **Cloner le projet**
 ```bash
-git clone <URL_DU_REPO>
+git clone https://github.com/abdelmounaimoulaid/e_commerce_application.git
 ```
 
 2. **Installer les dépendances**
