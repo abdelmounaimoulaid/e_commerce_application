@@ -44,11 +44,15 @@
 1. **Cloner le projet**
 ```bash
 git clone <URL_DU_REPO>
+```
 
 2. **Installer les dépendances**
+```bash
 cd e_commerce
 flutter pub get
+```
 
 3. **Lancer l’application**
+```bash
 flutter run
-
+```
