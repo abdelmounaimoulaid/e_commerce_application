@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "T-Shirt Noir",
+        "description": "Un t-shirt noir élégant en coton biologique.",
+        "price": 29.99,
+        "image": "assets/images/product-1.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Pantalon Chino",
+        "description": "Pantalon chino slim fit, confortable et stylé.",
+        "price": 49.99,
+        "image": "assets/images/product-2.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Sneakers Classiques",
+        "description": "Chaussures en toile blanches, parfaites pour tous les jours.",
+        "price": 59.99,
+        "image": "assets/images/product-3.jpeg"
+    }
+]
