@@ -10,11 +10,11 @@
 		</data>
 		<key>Resources/flutter_assets/AssetManifest.bin</key>
 		<data>
-		41nXNGN2Ey93/1sYlcA7QqmmYDs=
+		61FNkghcBn1fUzkUi986/6mtHwY=
 		</data>
 		<key>Resources/flutter_assets/FontManifest.json</key>
 		<data>
-		UetEgYAESX3NUBOHLwFCSXGAwWE=
+		5AaORr/nDnF0NJGsuCsDv28X7Ro=
 		</data>
 		<key>Resources/flutter_assets/NOTICES.Z</key>
 		<data>
@@ -23,6 +23,130 @@
 		<key>Resources/flutter_assets/NativeAssetsManifest.json</key>
 		<data>
 		re4p7E8rPLLsN+wzaPN/+AVpXTY=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-Black.ttf</key>
+		<data>
+		kodl68SefCKiIwUokam36cHO15A=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-BlackItalic.ttf</key>
+		<data>
+		G60VOA4Huys01J8WiPjWp/yMkY4=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-Bold.ttf</key>
+		<data>
+		EOBhrH8B/VQuDBlW6JsSonJgf10=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-BoldItalic.ttf</key>
+		<data>
+		aEBECIuN0pHo+fxCDjM/tdqCRvU=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-ExtraLight.ttf</key>
+		<data>
+		yIs8oav1sgc7mMitUnR7omIw91U=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-ExtraLightItalic.ttf</key>
+		<data>
+		7JhAb5K2r73f6ETcyar2sirmaJU=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-Italic.ttf</key>
+		<data>
+		7AWjbTq8+BRqzF75Zp05lgA6AB8=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-Light.ttf</key>
+		<data>
+		XBRKCQn8omsyydWkLNheGPfKkk8=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-LightItalic.ttf</key>
+		<data>
+		bvqAIoFONKLfNwWjpyI5aUWdRzA=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-Medium.ttf</key>
+		<data>
+		2tJjdiPe/t1HIER8W7qj2WsVlO4=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-MediumItalic.ttf</key>
+		<data>
+		KMrwBt2TA5PDP29CcoCA/9PcCLM=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-Regular.ttf</key>
+		<data>
+		dsUApORqLvQlLpCRCZJuCCcqyEk=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-SemiBold.ttf</key>
+		<data>
+		0PScjzXxFVosCpRQUTGeE007oM8=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-SemiBoldItalic.ttf</key>
+		<data>
+		opalpqYbTPa0MFY+Qzkrc6ws+a0=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-Thin.ttf</key>
+		<data>
+		BkziZFbp7Jup6NAe+VOrLsmf3IE=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-ThinItalic.ttf</key>
+		<data>
+		W90y1AnMBiygQC266571po/98yI=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-Black.ttf</key>
+		<data>
+		rBqxtUtu3F5S2//FywZVS3Qq0IA=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-BlackItalic.ttf</key>
+		<data>
+		GptCAiHMCIO7gFKsBRUEeq1Glp8=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-Bold.ttf</key>
+		<data>
+		VzYPSfB2173XqeHpOr877X1W1yY=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-BoldItalic.ttf</key>
+		<data>
+		XlpdmhbwyKX/1q+8X/pbWvUZFrE=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-ExtraBold.ttf</key>
+		<data>
+		HjFScTGy/5AZzLpWrFfoTCYSOTo=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-ExtraBoldItalic.ttf</key>
+		<data>
+		0jD7zZL5CUTFQ6njnbyL1J7YnS0=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-Italic.ttf</key>
+		<data>
+		3/5vomiL83nsajOpUH5wr2/Cs5w=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-Medium.ttf</key>
+		<data>
+		3oXOmPrQba9k+G1nDhP6Ps71tRU=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-MediumItalic.ttf</key>
+		<data>
+		lkVqWSHb7HfuI+2DnJ9EmrtDlIw=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-Regular.ttf</key>
+		<data>
+		PhLCz0It6FLNCvAicXmQGxVavxQ=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-SemiBold.ttf</key>
+		<data>
+		f6JOh5ZzTsF9cvHpfPtdQnUI4zc=
+		</data>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-SemiBoldItalic.ttf</key>
+		<data>
+		8xWA1+VnxQQAVEmW4BTf7Kmqqcc=
+		</data>
+		<key>Resources/flutter_assets/assets/images/product-1.jpeg</key>
+		<data>
+		SotqQ1khFoPIbsLkCcMmEHY4HJA=
+		</data>
+		<key>Resources/flutter_assets/assets/images/product-2.jpeg</key>
+		<data>
+		tCuNMvBkCxdBrBEU3sqnPoKC67g=
+		</data>
+		<key>Resources/flutter_assets/assets/images/product-3.jpeg</key>
+		<data>
+		yDsluIld6B5A3Zc5wTjFncNkb+w=
 		</data>
 		<key>Resources/flutter_assets/assets/logos/logo.png</key>
 		<data>
@@ -42,7 +166,7 @@
 		</data>
 		<key>Resources/flutter_assets/kernel_blob.bin</key>
 		<data>
-		85lu0nMCMTbyFod3cXUSYq1Fdok=
+		I0S8xv7nB3W6JkfuASCD+A3ycOE=
 		</data>
 		<key>Resources/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -78,14 +202,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0gVEboCL6Irv5CpIWWGmxqYyejP6WPtVSdYwDJde0Qg=
+			baVAUZAJNyIMFDDM9vUSgpJ467HDGVnnQN/XRV2uQto=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UIq5hBrzqcrGFaZcRgP2OUewgRTYJ6zLan7miVDjj+s=
+			3lfReg/lI0bo9OkQGebpxf3Hkp5z8YWqtySMIw2BHGY=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/NOTICES.Z</key>
@@ -100,6 +224,223 @@
 			<key>hash2</key>
 			<data>
 			lUijHkoEgTXB2U+Rkyi/tirix7s8q5ZVfHlB2ql3dss=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-Black.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xP1wcCXBPM4w22eu89ZejvZSxpB9cRHbriWEkNxkwLs=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-BlackItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZGVpOrirIDymZpsLQvWUaluvnKJLbO1uSzDQlfUpC4s=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			N2SizmL6lVlsMxXBoMo3nnz4J+05fJf8A2klubILdNw=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-BoldItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			T8eOnmxvdwVdB8xdOC9EnnZAgwGarkJGvSnfiprXQJ0=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-ExtraLight.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hV+XTx1wdHdt9jj4Ns590tFF1LyX28jkh/Hiufkh5TY=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-ExtraLightItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kLj34CjsZ/qVE6tCuzO7wWslhLXBoXWF9ACsLIpGRtY=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-Italic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JncTivwJDSteQBuxBzR2Abt+sBWFO+VkxMv98CHeaQo=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-Light.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hpCE7/lU+UX7Q2WO2epZQyTTkLaiGxtxLgVs9lJ/ltg=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-LightItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JjNn316EQCjqZY0lWXCDmI4FE3ImHqEc6XEJY8K1CMg=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Vo2v0ts3KFNLQsBk5j7R/0Xsl3Obwh5AcSPf3csq0lU=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-MediumItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7ju2AXN8j96K8A77CVA9QTisf5iMTIz9Gnqg9NT7cmk=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IMy5BJjYylEbsL4xp07M1fKfvhFhhS73J4G3A5KemOw=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-SemiBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			s+6cbycTGAZq2uVsMDPm5BkviPXRJ8tQdobYmgomkWg=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-SemiBoldItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9ofXJZfszuAGOLJVi7lIU9hloE61jJMpx9sFU6608qQ=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-Thin.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			F2RGVusdAlVIpj8mG3SxCzPa+LZEQzj8LTEIk+K2tBQ=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/DM-Sans/DMSans-ThinItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			si6FbdalBZs/y1DbLsYSfSU+R1MA1JEBpnVOkvABUzg=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-Black.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			M5Uba77dtENH8dvw/k5NMPdZoASMfVpdkAxeHJBWXOA=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-BlackItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eS6+5LOBrMW854xGujjEkcuk5ICDE8Gta/vmrurV9/E=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TzuHtaopfu1eWkjb2ZQTVsoDE9RyWwLCmimMsEK3sxs=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-BoldItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			21c3BZ/2FzF6ypfp41cw+JM6Lhh8dbvi3q9FxNcvWx0=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-ExtraBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			66ZO766ru39lmGxZ6uLWwLoo/bToq25Xg5CvC/H8u78=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-ExtraBoldItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZfdT4Gkh+QKQ8uEiGMs3caWtCfe/2G6Xbwy1eIm8pF8=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-Italic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QKavqSIgJUwsQmzO8SnTYV3RnkxZH7+pl+XyjruoMCw=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GAH+VCrzc2GybTwEKppXeUpYpOmh45SKf6DsJribQ/M=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-MediumItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2eNDJK735bpfqKuPEK96zt0Wf3novh6/iOq4Eul1ZzY=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hh+DjUgdKMu9R5PkXcAvAdBMgeBu2Yqyd5yhUqzp8ns=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-SemiBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D4rmbqAYc5g42sj8CnD53W/ogGv09juzWzxkNIAiHTE=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/fonts/PlayfairDisplay-SemiBoldItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IPxGaTshsl8EK4VC1BoeWoa9/es2Phh4vgX918itgWY=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/images/product-1.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Lg7nfHv9t3A0NP5zfD1Vm9mxVxWEorqVeGHYEu2oBeI=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/images/product-2.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2qly/utp6HTDzP7RduKvOvaGdb7gHCNQGo77I7UPK+Q=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/images/product-3.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4eICAJMj0d/siFNxHVX4MAk13oLIAJVawaKIDMHH9VI=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/assets/logos/logo.png</key>
@@ -134,7 +475,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			K4Uow+8kwjgaNb7CB9yN7YhJBmvaGqKOFJbERoPHjnU=
+			Uz5qFbdOWR2Q8NSbVTffUFccsOqFSWMtqZ2ITcgwSt0=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>

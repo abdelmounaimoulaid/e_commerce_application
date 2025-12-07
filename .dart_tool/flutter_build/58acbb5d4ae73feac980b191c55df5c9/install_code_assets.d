@@ -1,0 +1,1 @@
+ /Users/abdelmonaimoulaid/Documents/study/Dart\ and\ Flutter/e_commerce/.dart_tool/flutter_build/58acbb5d4ae73feac980b191c55df5c9/native_assets.json: 
