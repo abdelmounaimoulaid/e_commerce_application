@@ -41,6 +41,7 @@ class LoginScreenState extends State<LoginScreen> {
                       style: TextStyle(
                         fontSize: 24,
                         fontWeight: FontWeight.bold,
+                        fontFamily: "DMSans",
                         color: TColors.primary,
                       ),
                     ),
@@ -49,6 +50,8 @@ class LoginScreenState extends State<LoginScreen> {
                       style: TextStyle(
                         fontSize: 16,
                         fontWeight: FontWeight.w300,
+                        fontFamily: "DMSans",
+
                         color: TColors.tertiary,
                       ),
                       textAlign: TextAlign.center,
@@ -69,7 +72,7 @@ class LoginScreenState extends State<LoginScreen> {
                                 prefixIconColor: TColors.tertiary,
 
                                 labelText: "E-Mail",
-                                labelStyle: TextStyle(color: TColors.tertiary),
+                                labelStyle: TextStyle(color: TColors.tertiary , fontFamily: "DMSans"),
 
                                 enabledBorder: OutlineInputBorder(
                                   borderRadius: BorderRadius.circular(
@@ -123,7 +126,7 @@ class LoginScreenState extends State<LoginScreen> {
                                 prefixIconColor: TColors.tertiary,
 
                                 labelText: "Password",
-                                labelStyle: TextStyle(color: TColors.tertiary),
+                                labelStyle: TextStyle(color: TColors.tertiary, fontFamily: "DMSans"),
 
                                 suffixIcon: InkWell(
                                   onTap: () {
@@ -132,7 +135,10 @@ class LoginScreenState extends State<LoginScreen> {
                                     });
                                   },
                                   child: Icon(
-                                    _obscurePassword ? Iconsax.eye_slash : Iconsax.eye),
+                                    _obscurePassword
+                                        ? Iconsax.eye_slash
+                                        : Iconsax.eye,
+                                  ),
                                 ),
                                 suffixIconColor: TColors.tertiary,
 
@@ -211,7 +217,8 @@ class LoginScreenState extends State<LoginScreen> {
                                   style: TextStyle(
                                     fontSize: 16,
                                     color: Colors.white,
-                                    fontWeight: FontWeight.w600,
+                                    fontWeight: FontWeight.bold,
+                                    fontFamily: "DMSans"
                                   ),
                                 ),
                               ),
