@@ -9,7 +9,7 @@ import 'package:e_commerce/utils/constants/sizes.dart';
 import 'package:e_commerce/utils/helpers/helper_functions.dart';
 
 class LoginScreenState extends State<LoginScreen> {
-  final _formKey = GlobalKey<FormState>();
+  final loginFormKey = GlobalKey<FormState>();
   bool _obscurePassword = true;
 
   @override
@@ -62,7 +62,7 @@ class LoginScreenState extends State<LoginScreen> {
                         vertical: TSizes.spaceBtwSections,
                       ),
                       child: Form(
-                        key: _formKey,
+                        key: loginFormKey,
                         child: Column(
                           children: [
                             TextFormField(
@@ -189,7 +189,7 @@ class LoginScreenState extends State<LoginScreen> {
                               width: double.infinity,
                               child: ElevatedButton(
                                 onPressed: () {
-                                  if (_formKey.currentState!.validate()) {
+                                  if (loginFormKey.currentState!.validate()) {
                                     Navigator.pushReplacement(
                                       context,
                                       MaterialPageRoute(
